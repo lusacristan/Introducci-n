@@ -1,9 +1,9 @@
 # Introduccion
 
 Este repositorio contiene tres módulos introductorios y obligatorios para el desarrollo de los cursos [Bioinformática para el análisis de SARS-CoV-2 para principiantes](https://github.com/lusacristan/Curso-SARS-CoV-2-espanol) y [Vigilancia genómica de *S.pneumoniae* y *S. agalactiae*](https://github.com/lusacristan/Curso-vigilancia-genomica-espanol)
- ___ 
 
-### Módulo 1: [Introducción a Google Colaboratory](01.Intro_a_colab.ipynb)
+
+## Módulo 1: [Introducción a Google Colaboratory](01.Intro_a_colab.ipynb)
 
 
 Para comenzar, vaya a https://colab.research.google.com/.
@@ -25,7 +25,7 @@ Para ejecutar las celdas, deberá iniciar sesión con su cuenta de Google (es li
 
 **Nota:** existen limitaciones en la versión gratuita, pero no serán alcanzadas en este curso.
 
-### Módulo 2: [Introducción a Notebooks y Unix/Linux](02.Modulo_2_linux.ipynb)
+## Módulo 2: [Introducción a Notebooks y Unix/Linux](02.Modulo_2_linux.ipynb)
 
 Vaya a https://colab.research.google.com/.
 
@@ -40,7 +40,7 @@ Después de una breve búsqueda verá el notebook:
 Seleccione y verá el notebook abierto.
 
 
-### Módulo 3: [Introducción a las tecnologías de NGS](03.Modulo_3_NGS.ipynb)
+## Módulo 3: [Introducción a las tecnologías de NGS](03.Modulo_3_NGS.ipynb)
 
 Vaya a https://colab.research.google.com/.
 
