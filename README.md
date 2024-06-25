@@ -12,7 +12,7 @@ En la página de inicio de Colab, seleccione "Archivo" y luego "Abrir bloc de no
 
 Hay una pestaña para "GitHub"; seleccione esa pestaña y pegue la siguiente URL en la barra de búsqueda debajo de "Ingresa una URL de GitHub o realiza una búsqueda por organización o usuario":
 
-`https://github.com/lusacristan/Modulos_introductorios`
+`https://github.com/lusacristan/Introduccion`
 
 
 Después de una breve búsqueda verá el notebook:
@@ -31,7 +31,7 @@ Vaya a https://colab.research.google.com/.
 
 Seleccione el repositorio
 
-`https://github.com/lusacristan/Modulos_introductorios`
+`https://github.com/lusacristan/Introduccion`
 
 Después de una breve búsqueda verá el notebook:
 
@@ -46,7 +46,7 @@ Vaya a https://colab.research.google.com/.
 
 Seleccione el repositorio
 
-`https://github.com/lusacristan/Modulos_introductorios`
+`https://github.com/lusacristan/Introduccion`
 
 Después de una breve búsqueda verá el notebook:
 
