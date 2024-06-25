@@ -1,2 +1,2 @@
-# Introducci-n
+# Introduccion
 Tutoriales introductorios para cursos de bioinformática.
