@@ -1,11 +1,7 @@
 # Introduccion
 
-Este repositorio contiene tres módulos introductorios y obligatorios para el desarrollo de los cursos: 
-
-1. [Bioinformática para el análisis de SARS-CoV-2 para principiantes](https://github.com/lusacristan/Curso-SARS-CoV-2-espanol)
-
-2. [Vigilancia genómica de *S.pneumoniae* y *S. agalactiae*](https://github.com/lusacristan/Curso-vigilancia-genomica-espanol)
-
+Este repositorio contiene tres módulos introductorios y obligatorios para el desarrollo de los cursos [Bioinformática para el análisis de SARS-CoV-2 para principiantes](https://github.com/lusacristan/Curso-SARS-CoV-2-espanol) y [Vigilancia genómica de *S.pneumoniae* y *S. agalactiae*](https://github.com/lusacristan/Curso-vigilancia-genomica-espanol)
+ ___ 
 
 ### Módulo 1: [Introducción a Google Colaboratory](01.Intro_a_colab.ipynb)
 
